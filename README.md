@@ -1,6 +1,6 @@
 # mini-challenge-1
 
-A mini challenge of Node.js workshop
+A mini challenge of [The Node.js Workshop](https://github.com/Spy126/node.js-workshop)
 
 ## Yêu cầu
 
