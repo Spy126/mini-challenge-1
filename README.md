@@ -4,7 +4,7 @@ A mini challenge of [The Node.js Workshop](https://github.com/Spy126/node.js-wor
 
 ## Yêu cầu
 
-- Sử dụng [data.json](/data.json) và các core packages trong Node.js để dựng 1 app REST API và trả về dữ liệu của file data.json
+- Sử dụng [data.json](/data.json) và các core modules có sẵn trong Node.js để dựng 1 app REST API và trả về dữ liệu của file data.json
 
 - Chú ý: Không dược sử dụng bất kì external package nào.
 
